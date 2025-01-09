@@ -1,0 +1,14 @@
+<type>(<scope>): <description>
+<BLANK LINE>
+<body> 
+<BLANK LINE>
+<footer>
+
+feat(*): Create a beginning for future changes
+
+added the "doc" directory for pdf/html documentations
+added the Makefile build script
+added the basic Hello World example
+added the basic API of the cntlib library
+
+closes issue #1
